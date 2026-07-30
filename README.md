@@ -56,17 +56,25 @@
 ## Array
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
