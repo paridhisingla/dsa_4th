@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paridhisingla/dsa_4th/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -60,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
@@ -92,9 +94,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/paridhisingla/dsa_4th/tree/master/1301-number-of-paths-with-max-score) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
