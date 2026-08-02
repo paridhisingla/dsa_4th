@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
@@ -92,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -112,4 +114,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/paridhisingla/dsa_4th/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
