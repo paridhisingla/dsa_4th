@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0023-merge-k-sorted-lists) |
+| [1046-last-stone-weight](https://github.com/paridhisingla/dsa_4th/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/paridhisingla/dsa_4th/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/paridhisingla/dsa_4th/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/paridhisingla/dsa_4th/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/paridhisingla/dsa_4th/tree/master/1406-stone-game-iii) |
