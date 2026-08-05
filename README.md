@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paridhisingla/dsa_4th/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -120,6 +121,7 @@
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/paridhisingla/dsa_4th/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/paridhisingla/dsa_4th/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/paridhisingla/dsa_4th/tree/master/1406-stone-game-iii) |
 ## Simulation
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
