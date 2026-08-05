@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paridhisingla/dsa_4th/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
@@ -112,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
