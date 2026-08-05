@@ -70,6 +70,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paridhisingla/dsa_4th/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
@@ -129,6 +131,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
