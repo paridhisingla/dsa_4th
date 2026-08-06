@@ -64,6 +64,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paridhisingla/dsa_4th/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -80,6 +81,7 @@
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -129,6 +132,7 @@
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/paridhisingla/dsa_4th/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
