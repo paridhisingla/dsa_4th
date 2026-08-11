@@ -53,6 +53,7 @@
 | [0005-longest-palindromic-substring](https://github.com/paridhisingla/dsa_4th/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
+| [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paridhisingla/dsa_4th/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -145,6 +146,7 @@
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/paridhisingla/dsa_4th/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
