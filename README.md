@@ -52,6 +52,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/paridhisingla/dsa_4th/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paridhisingla/dsa_4th/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/paridhisingla/dsa_4th/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
