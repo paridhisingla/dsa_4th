@@ -55,6 +55,7 @@
 | [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paridhisingla/dsa_4th/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhisingla/dsa_4th/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -102,6 +103,7 @@
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/paridhisingla/dsa_4th/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/paridhisingla/dsa_4th/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,4 +245,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
