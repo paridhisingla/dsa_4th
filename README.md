@@ -25,6 +25,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/paridhisingla/dsa_4th/tree/master/0146-lru-cache) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhisingla/dsa_4th/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
@@ -58,6 +59,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paridhisingla/dsa_4th/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhisingla/dsa_4th/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhisingla/dsa_4th/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhisingla/dsa_4th/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
