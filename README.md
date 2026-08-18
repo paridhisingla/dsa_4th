@@ -26,6 +26,7 @@
 | [0146-lru-cache](https://github.com/paridhisingla/dsa_4th/tree/master/0146-lru-cache) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhisingla/dsa_4th/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/paridhisingla/dsa_4th/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
@@ -112,6 +113,7 @@
 | [1563-stone-game-v](https://github.com/paridhisingla/dsa_4th/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/paridhisingla/dsa_4th/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/paridhisingla/dsa_4th/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Depth-First Search
 |  |
 | ------- |
