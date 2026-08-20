@@ -116,6 +116,7 @@
 | [1563-stone-game-v](https://github.com/paridhisingla/dsa_4th/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/paridhisingla/dsa_4th/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/paridhisingla/dsa_4th/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/paridhisingla/dsa_4th/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Depth-First Search
 |  |
@@ -175,6 +176,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/paridhisingla/dsa_4th/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
