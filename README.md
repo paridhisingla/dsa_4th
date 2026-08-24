@@ -299,4 +299,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paridhisingla/dsa_4th/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/paridhisingla/dsa_4th/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
