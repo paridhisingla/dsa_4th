@@ -29,6 +29,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhisingla/dsa_4th/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/paridhisingla/dsa_4th/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/paridhisingla/dsa_4th/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/paridhisingla/dsa_4th/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paridhisingla/dsa_4th/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/paridhisingla/dsa_4th/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/paridhisingla/dsa_4th/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Depth-First Search
 |  |
 | ------- |
