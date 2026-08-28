@@ -74,6 +74,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/paridhisingla/dsa_4th/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/paridhisingla/dsa_4th/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhisingla/dsa_4th/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/paridhisingla/dsa_4th/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Graph Theory
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paridhisingla/dsa_4th/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/paridhisingla/dsa_4th/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/paridhisingla/dsa_4th/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
