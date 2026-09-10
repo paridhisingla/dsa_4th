@@ -153,6 +153,7 @@
 | ------- |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/paridhisingla/dsa_4th/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -340,4 +341,12 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/paridhisingla/dsa_4th/tree/master/0197-rising-temperature) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
