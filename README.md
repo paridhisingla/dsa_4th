@@ -24,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/paridhisingla/dsa_4th/tree/master/0146-lru-cache) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -119,6 +120,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paridhisingla/dsa_4th/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
