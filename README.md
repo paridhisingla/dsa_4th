@@ -123,6 +123,7 @@
 | [0001-two-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paridhisingla/dsa_4th/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -292,6 +293,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/paridhisingla/dsa_4th/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
