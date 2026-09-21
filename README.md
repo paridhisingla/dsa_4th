@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/paridhisingla/dsa_4th/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/paridhisingla/dsa_4th/tree/master/0836-rectangle-overlap) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/paridhisingla/dsa_4th/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/paridhisingla/dsa_4th/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/paridhisingla/dsa_4th/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
@@ -393,4 +395,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/paridhisingla/dsa_4th/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
