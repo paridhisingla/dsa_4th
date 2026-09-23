@@ -30,6 +30,7 @@
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhisingla/dsa_4th/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/paridhisingla/dsa_4th/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -154,6 +155,7 @@
 | [1406-stone-game-iii](https://github.com/paridhisingla/dsa_4th/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/paridhisingla/dsa_4th/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/paridhisingla/dsa_4th/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/paridhisingla/dsa_4th/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/paridhisingla/dsa_4th/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -325,6 +327,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhisingla/dsa_4th/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/paridhisingla/dsa_4th/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/paridhisingla/dsa_4th/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3904-smallest-stable-index-ii) |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/paridhisingla/dsa_4th/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhisingla/dsa_4th/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -376,6 +380,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paridhisingla/dsa_4th/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Database
