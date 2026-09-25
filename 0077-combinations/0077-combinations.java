@@ -1,13 +1,14 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
-        List<List<Integer>>  result= new ArrayList<>();
+        List<List<Integer>> result= new ArrayList<>();
         backtrack(n, k, 1, new ArrayList<>(), result);
         return result;
     }
-    public void backtrack(int n, int k, int index, List<Integer> current,List<List<Integer>> result ){
+    public void backtrack(int n, int k, int index, List<Integer> current, List<List<Integer>> result){
         if(current.size()==k){
-        result.add(new ArrayList<>(current));
-        return;
+            result.add(new ArrayList<>(current));
+            return;
+
         }
         for(int i=index; i<=n-(k-current.size())+1; i++){
             current.add(i);
@@ -15,5 +16,4 @@ class Solution {
             current.remove(current.size()-1);
         }
     }
-
 }
