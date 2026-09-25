@@ -12,6 +12,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/paridhisingla/dsa_4th/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -109,6 +111,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/paridhisingla/dsa_4th/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -142,6 +145,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
@@ -213,6 +217,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
@@ -424,4 +429,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
