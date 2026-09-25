@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/paridhisingla/dsa_4th/tree/master/0146-lru-cache) |
+| [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -84,6 +85,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhisingla/dsa_4th/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -188,6 +190,7 @@
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
+| [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/paridhisingla/dsa_4th/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paridhisingla/dsa_4th/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -212,6 +215,7 @@
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/paridhisingla/dsa_4th/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -313,6 +317,7 @@
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
+| [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -355,6 +360,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
