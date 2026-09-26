@@ -158,6 +158,7 @@
 | [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/paridhisingla/dsa_4th/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/paridhisingla/dsa_4th/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
@@ -359,6 +360,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/paridhisingla/dsa_4th/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhisingla/dsa_4th/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
