@@ -3,7 +3,7 @@ class Solution {
         int n=citations.length;
         int[] bucket= new int[n+1];
         for(int i=0; i<n; i++){
-            int x= citations[i];
+            int x=citations[i];
             if(x>n) bucket[n]++;
             else bucket[x]++;
         }
@@ -12,6 +12,6 @@ class Solution {
             sum+=bucket[i];
             if(sum>=i) return i;
         }
-         return 0;
+        return 0;
     }
 }
