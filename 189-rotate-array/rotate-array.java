@@ -13,6 +13,7 @@ class Solution {
             nums[e]=temp;
             s++;
             e--;
+
         }
     }
 }
