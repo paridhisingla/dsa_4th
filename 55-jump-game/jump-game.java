@@ -7,6 +7,5 @@ class Solution {
         }
         if(goal==0) return true;
         return false;
-
     }
 }
