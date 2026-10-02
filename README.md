@@ -153,6 +153,7 @@
 | [0039-combination-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/paridhisingla/dsa_4th/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/paridhisingla/dsa_4th/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
@@ -359,6 +360,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paridhisingla/dsa_4th/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/paridhisingla/dsa_4th/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/paridhisingla/dsa_4th/tree/master/0077-combinations) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
