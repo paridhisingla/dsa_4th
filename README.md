@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paridhisingla/dsa_4th/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/paridhisingla/dsa_4th/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
@@ -91,6 +92,7 @@
 | [0097-interleaving-string](https://github.com/paridhisingla/dsa_4th/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/paridhisingla/dsa_4th/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
@@ -171,6 +173,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paridhisingla/dsa_4th/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/paridhisingla/dsa_4th/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/paridhisingla/dsa_4th/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paridhisingla/dsa_4th/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -284,6 +287,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paridhisingla/dsa_4th/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paridhisingla/dsa_4th/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/paridhisingla/dsa_4th/tree/master/0198-house-robber) |
@@ -493,6 +497,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/paridhisingla/dsa_4th/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 ## Dancing Links
 |  |
 | ------- |
@@ -509,4 +514,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/paridhisingla/dsa_4th/tree/master/0274-h-index) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
