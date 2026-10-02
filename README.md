@@ -362,6 +362,7 @@
 | [0039-combination-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/paridhisingla/dsa_4th/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/paridhisingla/dsa_4th/tree/master/0077-combinations) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -468,6 +469,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0052-n-queens-ii) |
 ## Memoization
 |  |
 | ------- |
