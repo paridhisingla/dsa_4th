@@ -1,11 +1,9 @@
 class Solution {
     public int totalNQueens(int n) {
         boolean[] cols= new boolean[n];
-     boolean[] diag1= new boolean[2*n-1];
-     boolean[] diag2= new boolean[2*n-1];
-     return backtrack(0, n, cols, diag1, diag2);
-
-
+        boolean[] diag1= new boolean[2*n-1];
+        boolean[] diag2= new boolean[2*n-1];
+        return backtrack(0, n, cols, diag1, diag2);
     }
     public int backtrack(int row, int n, boolean[] cols, boolean[] diag1, boolean[] diag2){
         if(row==n) return 1;
@@ -21,6 +19,7 @@ class Solution {
             cols[col]=false;
             diag1[d1]=false;
             diag2[d2]=false;
+
         }
         return count;
     }
