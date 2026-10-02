@@ -161,6 +161,7 @@
 | [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/paridhisingla/dsa_4th/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
@@ -234,6 +235,7 @@
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
@@ -270,6 +272,7 @@
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/paridhisingla/dsa_4th/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/paridhisingla/dsa_4th/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/paridhisingla/dsa_4th/tree/master/0097-interleaving-string) |
