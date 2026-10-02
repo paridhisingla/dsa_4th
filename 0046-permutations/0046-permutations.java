@@ -2,12 +2,11 @@ class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result= new ArrayList<>();
         boolean[] visited= new boolean[nums.length];
-
         backtrack(nums, new ArrayList<>(), result, visited);
         return result;
     }
     public void backtrack(int[] nums, List<Integer> current, List<List<Integer>> result, boolean[] visited){
-        if(nums.length== current.size()){
+        if(nums.length==current.size()){
             result.add(new ArrayList<>(current));
             return;
         }
