@@ -5,7 +5,7 @@ class Solution {
         backtrack(nums, new ArrayList<>(), result, visited);
         return result;
     }
-    public void backtrack(int[] nums, List<Integer> current,List<List<Integer>> result, boolean[] visited){
+    public void backtrack(int[] nums, List<Integer> current, List<List<Integer>> result, boolean[] visited){
         if(nums.length==current.size()){
             result.add(new ArrayList<>(current));
             return;
