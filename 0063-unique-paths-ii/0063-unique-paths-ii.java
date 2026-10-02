@@ -9,7 +9,7 @@ class Solution {
             if(dp[i-1][0]==1 && grid[i][0]==0)
             dp[i][0]=1;
         }
-         for(int j=1; j<n; j++){
+        for(int j=1; j<n; j++){
             if(dp[0][j-1]==1 && grid[0][j]==0)
             dp[0][j]=1;
         }
