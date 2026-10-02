@@ -87,6 +87,7 @@
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/paridhisingla/dsa_4th/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/paridhisingla/dsa_4th/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
@@ -159,6 +160,7 @@
 | [0053-maximum-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/paridhisingla/dsa_4th/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paridhisingla/dsa_4th/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -211,6 +213,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -229,6 +232,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/paridhisingla/dsa_4th/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
@@ -367,6 +371,7 @@
 | [0051-n-queens](https://github.com/paridhisingla/dsa_4th/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/paridhisingla/dsa_4th/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
