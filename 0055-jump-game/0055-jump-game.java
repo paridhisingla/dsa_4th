@@ -5,7 +5,7 @@ class Solution {
             if(nums[i]+i>=goal) goal=i;
 
         }
-        if(goal==0) return true;
+        if(goal==0 )return true;
         return false;
     }
 }
