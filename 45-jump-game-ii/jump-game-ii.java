@@ -13,7 +13,9 @@ class Solution {
             if(i==end){
                 ans++;
                 end=farthest;
+
             }
+
         }
         return ans;
     }
