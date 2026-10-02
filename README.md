@@ -165,6 +165,7 @@
 | [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/paridhisingla/dsa_4th/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paridhisingla/dsa_4th/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paridhisingla/dsa_4th/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -277,6 +278,7 @@
 | [0072-edit-distance](https://github.com/paridhisingla/dsa_4th/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/paridhisingla/dsa_4th/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/paridhisingla/dsa_4th/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/paridhisingla/dsa_4th/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paridhisingla/dsa_4th/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/paridhisingla/dsa_4th/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
