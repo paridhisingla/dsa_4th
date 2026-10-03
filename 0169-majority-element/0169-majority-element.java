@@ -6,7 +6,6 @@ class Solution {
             if(count==0) candi=nums[i];
             if(candi==nums[i]) count++;
             else count--;
-
         }
         return candi;
     }
