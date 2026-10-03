@@ -6,6 +6,7 @@ class Solution {
         for(int i=0; i<n; i++){
             totalgas+=gas[i];
             totalcost+=cost[i];
+
         }
         if(totalcost>totalgas) return -1;
         int sum=0;
@@ -15,7 +16,6 @@ class Solution {
             if(sum<0){
                 sum=0;
                 pos=i+1;
-
             }
         }
         return pos;
