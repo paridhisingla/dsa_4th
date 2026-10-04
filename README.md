@@ -96,6 +96,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/paridhisingla/dsa_4th/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/paridhisingla/dsa_4th/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -139,6 +140,7 @@
 | [0135-candy](https://github.com/paridhisingla/dsa_4th/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/paridhisingla/dsa_4th/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/paridhisingla/dsa_4th/tree/master/2029-stone-game-ix) |
@@ -302,6 +304,7 @@
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/paridhisingla/dsa_4th/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/paridhisingla/dsa_4th/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0940-distinct-subsequences-ii) |
@@ -439,6 +442,7 @@
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/paridhisingla/dsa_4th/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/paridhisingla/dsa_4th/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/paridhisingla/dsa_4th/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -448,6 +452,7 @@
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/paridhisingla/dsa_4th/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/paridhisingla/dsa_4th/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paridhisingla/dsa_4th/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
