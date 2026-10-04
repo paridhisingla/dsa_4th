@@ -17,7 +17,6 @@ class Solution {
             backtrack(nums, current, result, visited);
             current.remove(current.size()-1);
             visited[i]=false;
-
         }
     }
 }
