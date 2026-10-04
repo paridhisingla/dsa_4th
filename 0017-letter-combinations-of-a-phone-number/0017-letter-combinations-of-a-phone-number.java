@@ -2,7 +2,7 @@ class Solution {
     public List<String> letterCombinations(String digits) {
         List<String> result= new ArrayList<>();
         if(digits.length()==0) return result;
-        String[] map={"", "", "abc", "def", "ghi", "jkl", "mno","pqrs", "tuv", "wxyz"};
+        String[] map={"", "", "abc","def","ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
         backtrack(digits, 0, new StringBuilder(), result, map);
         return result;
     }
@@ -10,6 +10,7 @@ class Solution {
         if(index==digits.length()){
             result.add(current.toString());
             return;
+
         }
         String letter= map[digits.charAt(index)-'0'];
         for(int i=0; i<letter.length(); i++){
