@@ -4,7 +4,7 @@ class Solution {
         backtrack(n, k, 1, new ArrayList<>(), result);
         return result;
     }
-    public void backtrack(int n, int k, int index, List<Integer> current, List<List<Integer>> result){
+    public void backtrack(int n, int k, int index, List<Integer> current,List<List<Integer>> result) {
         if(current.size()==k){
             result.add(new ArrayList<>(current));
             return;
