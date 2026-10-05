@@ -9,7 +9,6 @@ class Solution {
                     dp[i]=Math.min(dp[i], 1+dp[i-coin]);
                 }
             }
-
         }
         if(dp[amount]==Integer.MAX_VALUE) return -1;
         return dp[amount];
