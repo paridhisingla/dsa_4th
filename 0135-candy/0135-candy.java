@@ -11,7 +11,7 @@ class Solution {
                 peak=up;
                 res+=1+up;
             }
-             else if(prev==curr){
+           else if(prev==curr){
                 up=0;
                 down=0;
                 peak=0;
