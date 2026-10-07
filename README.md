@@ -95,6 +95,7 @@
 | [0115-distinct-subsequences](https://github.com/paridhisingla/dsa_4th/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/paridhisingla/dsa_4th/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0856-score-of-parentheses) |
@@ -237,6 +238,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
@@ -399,6 +401,7 @@
 | [0052-n-queens-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/paridhisingla/dsa_4th/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
