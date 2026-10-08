@@ -7,10 +7,10 @@ class Solution {
         dp[0][0]=true;
         for(int i=0;i<=m; i++){
             for(int j=0; j<=n; j++){
-                if(i>0 && s1.charAt(i-1)==s3.charAt(i+j-1))
-                dp[i][j] |=dp[i-1][j];
-                if(j>0 && s2.charAt(j-1)==s3.charAt(i+j-1))
-                dp[i][j] |=dp[i][j-1];
+                if(i>0 && s1.charAt(i-1)==s3.charAt(i+j-1)) 
+                dp[i][j]|=dp[i-1][j];
+                 if(j>0 && s2.charAt(j-1)==s3.charAt(i+j-1)) 
+                dp[i][j]|=dp[i][j-1];
             }
         }
         return dp[m][n];
