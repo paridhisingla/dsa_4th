@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/paridhisingla/dsa_4th/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/paridhisingla/dsa_4th/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paridhisingla/dsa_4th/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0022-generate-parentheses) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/paridhisingla/dsa_4th/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/paridhisingla/dsa_4th/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paridhisingla/dsa_4th/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/paridhisingla/dsa_4th/tree/master/0037-sudoku-solver) |
@@ -564,6 +566,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/paridhisingla/dsa_4th/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
