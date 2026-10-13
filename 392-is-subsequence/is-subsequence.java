@@ -7,11 +7,13 @@ class Solution {
         int i=0;
         int j=0;
         while(i<l1 && j<l2){
-            char c=s.charAt(i);
+            int c=s.charAt(i);
             if(c==t.charAt(j))i++;
-            j++;
+                j++;
+            
             if(i==l1) return true;
         }
         return false;
+        
     }
 }
