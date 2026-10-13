@@ -11,8 +11,8 @@ class Solution {
                 return ans;
             }
             if(i==end){
-                ans++;
-                end=farthest;
+                 ans++;
+                 end=farthest;
             }
          }
          return ans;
