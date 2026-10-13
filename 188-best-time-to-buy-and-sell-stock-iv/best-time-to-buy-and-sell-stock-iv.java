@@ -1,8 +1,8 @@
 class Solution {
     public int maxProfit(int k, int[] prices) {
         if(prices.length==0) return 0;
-        int[] buy= new int[k+1];
-        int[] sell= new int[k+1];
+        int buy[]= new int[k+1];
+        int sell[]=new int[k+1];
         Arrays.fill(buy, Integer.MIN_VALUE);
         for(int price: prices){
             for(int t=1; t<=k; t++){
