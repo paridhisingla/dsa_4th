@@ -201,6 +201,7 @@
 | [0135-candy](https://github.com/paridhisingla/dsa_4th/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/paridhisingla/dsa_4th/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
@@ -390,6 +391,7 @@
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/paridhisingla/dsa_4th/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhisingla/dsa_4th/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -528,6 +530,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
