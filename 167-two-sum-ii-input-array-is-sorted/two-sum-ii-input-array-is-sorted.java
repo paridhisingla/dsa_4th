@@ -13,9 +13,9 @@ class Solution {
                 res[1]=j+1;
                 break;
             }
-            if(f+b>target) j--;
-            else i++;
+        else if(f+b>target) j--;
+        else i++;
         }
-    return res;
+        return res;
     }
 }
