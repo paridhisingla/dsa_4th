@@ -100,6 +100,7 @@
 | [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/paridhisingla/dsa_4th/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/paridhisingla/dsa_4th/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/paridhisingla/dsa_4th/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/paridhisingla/dsa_4th/tree/master/0151-reverse-words-in-a-string) |
@@ -389,6 +390,7 @@
 | [0042-trapping-rain-water](https://github.com/paridhisingla/dsa_4th/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/paridhisingla/dsa_4th/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/paridhisingla/dsa_4th/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
