@@ -9,7 +9,7 @@ class Solution {
             for(int j=0; j<=n; j++){
                 if(i>0 && s1.charAt(i-1)==s3.charAt(i+j-1))
                 dp[i][j] |=dp[i-1][j];
-                 if(j>0 && s2.charAt(j-1)==s3.charAt(i+j-1))
+                if(j>0 && s2.charAt(j-1)==s3.charAt(i+j-1))
                 dp[i][j] |=dp[i][j-1];
             }
         }
