@@ -105,6 +105,7 @@
 | [0139-word-break](https://github.com/paridhisingla/dsa_4th/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/paridhisingla/dsa_4th/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0301-remove-invalid-parentheses) |
+| [0392-is-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/paridhisingla/dsa_4th/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/paridhisingla/dsa_4th/tree/master/0856-score-of-parentheses) |
@@ -335,6 +336,7 @@
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0516-longest-palindromic-subsequence) |
@@ -395,6 +397,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhisingla/dsa_4th/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/paridhisingla/dsa_4th/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
