@@ -5,15 +5,13 @@ class Solution {
         if(l1>l2) return false;
         if(l1==0) return true;
         int i=0;
-        int j=0;
-        while(i<l1 && j<l2){
+         int j=0;
+         while(i<l1 && j<l2){
             int c=s.charAt(i);
-            if(c==t.charAt(j))i++;
-                j++;
-            
+            if(c==t.charAt(j)) i++;
+            j++;
             if(i==l1) return true;
-        }
-        return false;
-        
+         }
+         return false;
     }
 }
