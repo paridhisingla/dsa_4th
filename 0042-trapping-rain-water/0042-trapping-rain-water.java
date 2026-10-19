@@ -9,7 +9,7 @@ class Solution {
             if(height[i]>left[i-1]) left[i]=height[i];
             else left[i]=left[i-1];
         }
-        for(int i=n-2; i>=0;i--){
+        for(int i=n-2; i>=0; i--){
             if(height[i]>right[i+1]) right[i]=height[i];
             else right[i]=right[i+1];
         }
