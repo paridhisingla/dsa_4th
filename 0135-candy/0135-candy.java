@@ -8,14 +8,14 @@ class Solution {
             if(prev<curr){
                 up++;
                 down=0;
-                res+=1+up;
                 peak=up;
+                res+=1+up;
             }
-           else if(prev==curr){
+            else if(prev==curr){
                 up=0;
                 down=0;
-                res+=1;
                 peak=0;
+                res+=1;
             }
             else{
                 up=0;
