@@ -5,14 +5,14 @@ class Solution {
         for(int i=0; i<n; i++){
             int x=citations[i];
             if(x>n) bucket[n]++;
-            else
-            bucket[x]++;
+            else bucket[x]++;
         }
         int sum=0;
-         for(int i=n; i>=0; i--){
+        for(int i=n; i>=0; i--){
             sum+=bucket[i];
             if(sum>=i) return i;
-         }
-         return 0;
+
+        }
+        return 0;
     }
 }
