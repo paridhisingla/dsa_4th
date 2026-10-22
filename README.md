@@ -272,6 +272,7 @@
 | ------- |
 | [0079-word-search](https://github.com/paridhisingla/dsa_4th/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -577,6 +578,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhisingla/dsa_4th/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -584,6 +586,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/paridhisingla/dsa_4th/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhisingla/dsa_4th/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -669,4 +672,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhisingla/dsa_4th/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/paridhisingla/dsa_4th/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
