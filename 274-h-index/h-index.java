@@ -11,7 +11,6 @@ class Solution {
         for(int i=n; i>=0; i--){
             sum+=bucket[i];
             if(sum>=i) return i;
-
         }
         return 0;
     }
