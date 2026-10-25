@@ -232,6 +232,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/paridhisingla/dsa_4th/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/paridhisingla/dsa_4th/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/paridhisingla/dsa_4th/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/paridhisingla/dsa_4th/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
@@ -279,6 +280,7 @@
 | [0404-sum-of-left-leaves](https://github.com/paridhisingla/dsa_4th/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/paridhisingla/dsa_4th/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhisingla/dsa_4th/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/paridhisingla/dsa_4th/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -292,6 +294,7 @@
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/paridhisingla/dsa_4th/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/paridhisingla/dsa_4th/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paridhisingla/dsa_4th/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -305,6 +308,7 @@
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/paridhisingla/dsa_4th/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/paridhisingla/dsa_4th/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/paridhisingla/dsa_4th/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paridhisingla/dsa_4th/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -313,6 +317,7 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/paridhisingla/dsa_4th/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/paridhisingla/dsa_4th/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhisingla/dsa_4th/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/paridhisingla/dsa_4th/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
