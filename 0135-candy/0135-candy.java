@@ -1,17 +1,17 @@
 class Solution {
     public int candy(int[] ratings) {
         int n=ratings.length;
-        int up=0, down=0, peak=0, res=1;
+        int up=0, down=0, res=1, peak=0;
         for(int i=1; i<n; i++){
             int prev=ratings[i-1];
             int curr=ratings[i];
-            if(prev<curr){
+            if( curr>prev){
                 up++;
                 down=0;
                 peak=up;
                 res+=1+up;
             }
-            else if(prev==curr){
+            else if(prev== curr){
                 up=0;
                 down=0;
                 peak=0;
