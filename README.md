@@ -240,6 +240,7 @@
 | [1254-number-of-closed-islands](https://github.com/paridhisingla/dsa_4th/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/paridhisingla/dsa_4th/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/paridhisingla/dsa_4th/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/paridhisingla/dsa_4th/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/paridhisingla/dsa_4th/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -342,6 +343,7 @@
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/paridhisingla/dsa_4th/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paridhisingla/dsa_4th/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paridhisingla/dsa_4th/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -445,6 +447,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/paridhisingla/dsa_4th/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhisingla/dsa_4th/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/paridhisingla/dsa_4th/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -591,6 +594,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0300-longest-increasing-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/paridhisingla/dsa_4th/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/paridhisingla/dsa_4th/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paridhisingla/dsa_4th/tree/master/2089-find-target-indices-after-sorting-array) |
