@@ -40,6 +40,7 @@
 | [0146-lru-cache](https://github.com/paridhisingla/dsa_4th/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/paridhisingla/dsa_4th/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/paridhisingla/dsa_4th/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/paridhisingla/dsa_4th/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/paridhisingla/dsa_4th/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/paridhisingla/dsa_4th/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/paridhisingla/dsa_4th/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/paridhisingla/dsa_4th/tree/master/0836-rectangle-overlap) |
@@ -232,6 +234,7 @@
 | [0198-house-robber](https://github.com/paridhisingla/dsa_4th/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/paridhisingla/dsa_4th/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/paridhisingla/dsa_4th/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/paridhisingla/dsa_4th/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/paridhisingla/dsa_4th/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0300-longest-increasing-subsequence) |
@@ -362,6 +365,7 @@
 | [0015-3sum](https://github.com/paridhisingla/dsa_4th/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/paridhisingla/dsa_4th/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/paridhisingla/dsa_4th/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/paridhisingla/dsa_4th/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/paridhisingla/dsa_4th/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/paridhisingla/dsa_4th/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -620,6 +624,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/paridhisingla/dsa_4th/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/paridhisingla/dsa_4th/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/paridhisingla/dsa_4th/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paridhisingla/dsa_4th/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -631,6 +636,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/paridhisingla/dsa_4th/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0300-longest-increasing-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/paridhisingla/dsa_4th/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhisingla/dsa_4th/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
