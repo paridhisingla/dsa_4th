@@ -233,6 +233,7 @@
 | [0221-maximal-square](https://github.com/paridhisingla/dsa_4th/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/paridhisingla/dsa_4th/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/paridhisingla/dsa_4th/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/paridhisingla/dsa_4th/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/paridhisingla/dsa_4th/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/paridhisingla/dsa_4th/tree/master/0435-non-overlapping-intervals) |
@@ -476,6 +477,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/paridhisingla/dsa_4th/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paridhisingla/dsa_4th/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/paridhisingla/dsa_4th/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/paridhisingla/dsa_4th/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/paridhisingla/dsa_4th/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/paridhisingla/dsa_4th/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/paridhisingla/dsa_4th/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
