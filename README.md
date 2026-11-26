@@ -94,6 +94,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paridhisingla/dsa_4th/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paridhisingla/dsa_4th/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/paridhisingla/dsa_4th/tree/master/3360-stone-removal-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paridhisingla/dsa_4th/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/paridhisingla/dsa_4th/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/paridhisingla/dsa_4th/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -446,6 +447,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/paridhisingla/dsa_4th/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/paridhisingla/dsa_4th/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/paridhisingla/dsa_4th/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/paridhisingla/dsa_4th/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/paridhisingla/dsa_4th/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
