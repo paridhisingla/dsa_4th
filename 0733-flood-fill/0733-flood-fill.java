@@ -5,7 +5,7 @@ class Solution {
         if(row<0 || row>=rows || col<0 || col>=cols || image[row][col]!=currcolor || image[row][col]==newcolor) return;
         image[row][col]=newcolor;
         int adjlist[][]={{row+1, col}, {row-1, col}, {row, col+1}, {row, col-1}};
-        for(int neighbour[]: adjlist){
+        for(int neighbour[] : adjlist){
             dfs(neighbour[0], neighbour[1], newcolor, currcolor, image);
         }
     }
