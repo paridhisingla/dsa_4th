@@ -12,7 +12,7 @@ class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         rows=image.length;
         cols=image[0].length;
-        dfs(sr, sc, color, image[sr][sc], image);
+        dfs(sr, sc, color, image[sr][sc],image );
         return image;
     }
 }
